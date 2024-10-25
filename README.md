@@ -1,6 +1,3 @@
-# PRODIGY_DS_04
-This is my 4th Task of Prodigy Infotech Intership
-
 # Sentiment Analysis and Visualization of Social Media Data
 Project Overview
 This project aims to analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands. The goal is to extract insights from text data (such as tweets or posts), classify them based on their sentiment (positive, negative, neutral), and provide visualizations to help stakeholders understand trends and patterns.
